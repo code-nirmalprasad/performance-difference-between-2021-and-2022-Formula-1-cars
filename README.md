@@ -1,1 +1,1 @@
-# performance-difference-between-2021-and-2022-Formula-1-cars
+The code generates as chart that shows a comparison of the performance of 2021 & 2022 Red Bull F1 cars driven by Max Verstappen during the Qualifiers of the Austin, Texas US Grand Prix. Max's car was chosen for the analysis because he was the winner of the races on both occasions. For the analysis, the Circuit of the Americas(COTA) is divided into several mini sectors, each 50 meters in length and the chart shows the faster Red Bull car in the different mini sectors.
